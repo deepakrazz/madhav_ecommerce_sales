@@ -10,7 +10,7 @@ The owner of the **Madhav E-Commerce Store** wants us to create an <a href="http
 
 - <a href="https://github.com/deepakrazz/madhav_ecommerce_sales/blob/main/Details.csv">Details</a>
 - <a href="https://github.com/deepakrazz/madhav_ecommerce_sales/blob/main/Orders.csv">Orders</a>
-
+- <a href="https://github.com/deepakrazz/madhav_ecommerce_sales/blob/main/dark-gradient.jpg">Dark_Graient</a>
 
 ## **Questions (KPIs)**
 
