@@ -44,3 +44,6 @@ The owner of the **Madhav E-Commerce Store** wants us to create an <a href="http
 ## **Final Conclusion**
 
 The customers living in Maharashtra, Madhya Pradesh Uttar Pradesh and Delhi purchase the most of the products such as Clothing, Electronics and Furnitures. To improve sales of the **Madhav E-Commerce Store**, the owner must show maximum ads, sale offers/coupons in the months from January to April and November.
+
+## **Power BI file**
+- <a href="https://github.com/deepakrazz/madhav_ecommerce_sales/blob/main/ms_p.pbix">Madhav Store Ecommerce Power BI file</a>
